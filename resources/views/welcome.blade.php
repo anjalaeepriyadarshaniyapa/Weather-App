@@ -307,7 +307,7 @@
 		<div class="weather-side">
 			<div class="weather-gradient"></div>
 			<div class="date-container">
-				<h2 class="date-dayname"></h2><span class="date-day">30 Jun 2023</span><i class="location-icon" data-feather="map-pin"></i><span class="location">Colombo,Sri Lanka</span>
+				<h2 class="date-dayname"></h2><span class="date-day">02 July 2023</span><i class="location-icon" data-feather="map-pin"></i><span class="location">Colombo,Sri Lanka</span>
 			</div>
 			<div class="weather-container"><i class="weather-icon" data-feather="sun"></i>
 				<h1 class="weather-temp">29°C</h1>
@@ -365,9 +365,9 @@
 
 
 		<!-- Include JavaScript code here -->
-		<script>
+		<!-- <script>
 			feather.replace();
-		</script>
+		</script> -->
 
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 		<script>
